@@ -11,4 +11,4 @@
 1. [Muhammad Aqeel](https://github.com/AqeelMuhammad)
 1. [Navindu Rasanjana](https://github.com/NavinduRasanjana)
 
-* To visit the dashboard, click [here](https://smartagricultureapp.mybluemix.net/ui)
+* To visit the dashboard, [click here](https://smartagricultureapp.mybluemix.net/ui)
